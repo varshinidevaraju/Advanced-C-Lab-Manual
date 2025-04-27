@@ -297,5 +297,3 @@ Thus, the program is verified successfully
 
 
 
-Result:
-Thus, the program is verified successfully
