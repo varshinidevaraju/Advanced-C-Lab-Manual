@@ -3,8 +3,8 @@
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 
 ```
-Developed by: Zafreen J
-Register no: 212223040252
+Developed by: VARSHINI D
+Register no: 212223230234
 ```
 ## Aim:
 To write a C program to display stack elements using linked list.
