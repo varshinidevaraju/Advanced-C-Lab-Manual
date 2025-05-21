@@ -2,8 +2,8 @@
 
 ## EXP NO:21 C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
 ```
-Developed by: Zafreen J
-Register no: 212223040252
+Developed by: VARSHINI D
+Register no: 212223230234
 
 ```
 ## Aim:
