@@ -1,8 +1,8 @@
 ## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
 ```
-Developed by: Zafreen J
-Register No: 212223040252
+Developed by: VARSHINI D
+Register No: 212223230234
 
 ```
 
