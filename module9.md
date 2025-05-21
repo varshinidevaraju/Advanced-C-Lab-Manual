@@ -1,8 +1,7 @@
 ## EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
 ```
-Developed by: Zafreen J
-Register no: 212223040252
-
+Developed by: VARSHINI D
+Register no: 212223230234
 ```
 ## Aim:
 To write a C program to display stack elements using an array.
